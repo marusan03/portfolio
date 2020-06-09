@@ -1,0 +1,34 @@
+{
+  "skills": [
+    {
+      "type": "Language",
+      "skill": "Python",
+      "sentence": "主に機械学習で現在最も使用している言語です。"
+    },
+    {
+      "type": "Language",
+      "skill": "Java",
+      "sentence": "画像処理のアルゴリズムを実装する際に使用した経験があります。"
+    },
+    {
+      "type": "Language",
+      "skill": "C++",
+      "sentence": "AtCoder上でC++を使用して勉強しております。"
+    },
+    {
+      "type": "Language",
+      "skill": "C#",
+      "sentence": "主にUnityでiOS上で動くゲームを作る際に使用しました。"
+    },
+    {
+      "type": "Language",
+      "skill": "Perl",
+      "sentence": "インターンシップで少し使用しましたがあまり使えません。"
+    },
+    {
+      "type": "Language",
+      "skill": "Swift",
+      "sentence": "講義で使用しましたが難しくて挫折しました。もしアイデアが浮かんだらまたリベンジしたい言語です。"
+    }
+  ]
+}

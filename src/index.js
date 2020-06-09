@@ -1,17 +1,16 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import deepPurple from "@material-ui/core/colors/deepPurple";
-import "./index.css";
-import MenuTabs from "./MenuTabs";
-import Logo from "./Logo";
-import * as serviceWorker from "./serviceWorker";
+import React from 'react';
+import ReactDOM from 'react-dom';
+import Intro from './contents/Intro';
+import Pages from './contents/Pages';
+import './index.css';
+import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-  <main style={{ color: deepPurple[900] }}>
-    <Logo />
-    <MenuTabs />
+  <main>
+    <Intro />
+    <Pages />
   </main>,
-  document.getElementById("root")
+  document.getElementById('root')
 );
 
 // If you want your app to work offline and load faster, you can change

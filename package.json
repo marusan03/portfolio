@@ -4,18 +4,19 @@
   "private": true,
   "homepage": "http://marusan03.github.io/portfolio",
   "dependencies": {
-    "@material-ui/core": "^4.9.5",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "delay": "^4.3.0",
-    "eslint-config-react-app": "^5.2.0",
-    "material-ui": "^0.20.2",
     "react": "^16.13.0",
-    "react-anime": "^3.0.3",
+    "react-bootstrap": "^1.0.1",
     "react-dom": "^16.13.0",
+    "react-router-bootstrap": "^0.25.0",
+    "react-router-dom": "^5.2.0",
+    "react-router-transition": "^2.0.0",
     "react-scripts": "3.4.0",
-    "react-spring": "^8.0.27"
+    "react-spring": "^8.0.27",
+    "typescript": "^3.9.5"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -41,6 +42,10 @@
     ]
   },
   "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-flowtype": "^4.7.0",
+    "eslint-plugin-react": "^7.20.0",
     "gh-pages": "^2.2.0"
   }
 }
